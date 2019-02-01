@@ -1,5 +1,5 @@
 ## Index of source code examples:
 
-\convert PDF To HTML with complex layout
-\convert PDF To HTML with Images
-\convert PDF To HTML with simple layout
+\Convert PDF To HTML With Complex Layout
+\Convert PDF To HTML With Images
+\Convert PDF To HTML With Simple Layout
